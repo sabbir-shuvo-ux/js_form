@@ -1,0 +1,28 @@
+*{
+	padding: 0;
+	margin: 0;
+	box-sizing: border-box;
+}
+
+h2{
+	color: white;
+	font-weight: bold;
+}
+
+section{
+	width: 60%;
+	margin: 0 auto;
+	color: white;
+}
+
+.btn.btn-danger.btn_co {
+	padding: 10px 20px;
+	font-size: 20px;
+}
+
+.carousel-caption {
+	top: 50% !important;
+	color: yellow !important;
+}
+
+.carousel-caption h2{}
